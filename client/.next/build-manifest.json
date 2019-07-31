@@ -3,22 +3,27 @@
   "pages": {
     "/": [
       "static/runtime/webpack-3df6523e264ff2ac6548.js",
-      "static/chunks/commons.86cbb441b6a0b334258e.js",
+      "static/chunks/commons.ea675f12aeb45ab6d230.js",
+      "static/runtime/main-ccfdfc3ea713b0c96e8a.js"
+    ],
+    "/SignUp": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ea675f12aeb45ab6d230.js",
       "static/runtime/main-ccfdfc3ea713b0c96e8a.js"
     ],
     "/_app": [
       "static/runtime/webpack-3df6523e264ff2ac6548.js",
-      "static/chunks/commons.86cbb441b6a0b334258e.js",
+      "static/chunks/commons.ea675f12aeb45ab6d230.js",
       "static/runtime/main-ccfdfc3ea713b0c96e8a.js"
     ],
     "/_error": [
       "static/runtime/webpack-3df6523e264ff2ac6548.js",
-      "static/chunks/commons.86cbb441b6a0b334258e.js",
+      "static/chunks/commons.ea675f12aeb45ab6d230.js",
       "static/runtime/main-ccfdfc3ea713b0c96e8a.js"
     ],
     "/index": [
       "static/runtime/webpack-3df6523e264ff2ac6548.js",
-      "static/chunks/commons.86cbb441b6a0b334258e.js",
+      "static/chunks/commons.ea675f12aeb45ab6d230.js",
       "static/runtime/main-ccfdfc3ea713b0c96e8a.js"
     ]
   }
