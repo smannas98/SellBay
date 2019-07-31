@@ -52,16 +52,21 @@
       "static/-i2KyrW9b_dbogo5I5Fei/pages/index.js": 8,
       "static/kpdFGywQayggWDHsWC-Bg/pages/_app.js": 2,
       "static/kpdFGywQayggWDHsWC-Bg/pages/_error.js": 3,
-      "static/kpdFGywQayggWDHsWC-Bg/pages/index.js": 4
+      "static/kpdFGywQayggWDHsWC-Bg/pages/index.js": 4,
+      "static/FREvltIhOxc23-T3pxgOz/pages/SignUp.js": 6,
+      "static/FREvltIhOxc23-T3pxgOz/pages/_app.js": 7,
+      "static/FREvltIhOxc23-T3pxgOz/pages/_error.js": 8,
+      "static/FREvltIhOxc23-T3pxgOz/pages/index.js": 9
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      2,
-      3,
-      4,
-      5
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   }
 }
